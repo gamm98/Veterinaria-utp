@@ -1,2 +1,2 @@
-# Veterinaria-utp
+# ProyectoHotelito
 Proyecto de Integrador I 
